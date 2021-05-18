@@ -1,5 +1,5 @@
 # Fine Tuning BERT on Synthetic Data
-![](/BERT.png)
+![](/BERT.jpeg)
 
 
 In this case study, the goal is to fine-tune an existing Turkish BERT Transformers
@@ -19,6 +19,7 @@ The categories are given below with examples in parentheses:
 
 
 # Creating credit cards data set
+![](/media_cee_ceee4c60-f6c0-408f-bfee-26dd0e98853e_phpMQOCa7.png)
 
 Credit card numbers generated according to **Luhn Algorithm.** The Luhn algorithm, also known as the modulus 10 , is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers. It was designed to protect against accidental errors, not malicious attacks.
 
