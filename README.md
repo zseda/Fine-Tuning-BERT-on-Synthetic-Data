@@ -1,4 +1,5 @@
 # Fine Tuning BERT on Synthetic Data
+![](/BERT.jpeg)
 
 
 In this case study, the goal is to fine-tune an existing Turkish BERT Transformers
