@@ -1,4 +1,4 @@
-# Fine-Tuning-BERT-on-Synthetic-Data
+# Fine Tuning BERT on Synthetic Data
 
 
 In this case study, the goal is to fine-tune an existing Turkish BERT Transformers
