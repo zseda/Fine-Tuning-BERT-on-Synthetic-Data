@@ -14,12 +14,15 @@ The categories are given below with examples in parentheses:
 6) Blood type (0 RH+, A RH-, A RH Negative)
 
  I will create 1000 samples for each categories, probably less for hobbies since I will scrape it from web 
- 
-Creating credit cards data set
-# **CAUTION: I TOOK BELOW CODE TO CREATE SAMPLE CREDIT CARDS FROM GITHUB**
-# 
-# The code uses Luhn Algorithm to generate credit card numbers and also take into account of MII and BIN (Major industry identifier, Bank Identification Number)
-# 
-# https://github.com/eye9poob
+# Creating phone number  data set
+
+
+# Creating credit cards data set
+
+Credit card numbers generated according to **Luhn Algorithm.** The Luhn algorithm, also known as the modulus 10 , is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers. It was designed to protect against accidental errors, not malicious attacks.
+
+The code uses Luhn Algorithm to generate credit card numbers and also it takes into account of MII and BIN (Major industry identifier, Bank Identification Number)
+
+
  
 In the notebook you will find how I produced synthetic data for each category. After that I used pre-trained BERT model on Turkish data set from huggingface. I fine tuned the model using my unique synthetic data set. For each step I provided explanation in the notebook please refer to that.
